@@ -13,7 +13,7 @@
     "ios": "9.0"
   },
   "source": {
-    "git": "https://github.com/pereglides/Closures.git",
+    "git": "https://github.com/pereglides/Closures.git"
   },
   "source_files": "Xcode/Closures/Source",
   "documentation_url": "https://vhesener.github.io/Closures/",
